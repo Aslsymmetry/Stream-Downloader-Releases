@@ -8,7 +8,9 @@ Source code, private signing keys, tokens, internal logs, and user data are neve
 
 Stream Downloader is an independent, unofficial third-party application. It is not affiliated with, sponsored by, endorsed by, or officially connected with YouTube, Google, Downie, or Charlie Monroe Software.
 
-Downie 4 is a separate external product provided, licensed, and supported by Charlie Monroe Software. The names YouTube, Google, Downie, and related names are used only to identify supported services and required external software.
+Downie 4 is a separate external product provided, licensed, and supported by Charlie Monroe Software.
+
+An active Downie cancellation requires macOS Accessibility permission for Stream Downloader. If Stream Downloader does not display Cancelled, open Downie and cancel the item manually. If it already completed, delete the created file manually from the save folder. To repair permission, quit Stream Downloader, open System Settings → Privacy & Security → Accessibility, remove existing Stream Downloader entries, add exactly /Applications/Stream Downloader.app, enable it, and relaunch Stream Downloader. The names YouTube, Google, Downie, and related names are used only to identify supported services and required external software.
 
 ## Responsible Use and Copyright Compliance
 
